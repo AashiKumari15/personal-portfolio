@@ -1,16 +1,31 @@
-# Aashi Kumari Portfolio — Netlify Ready
+# Personal Portfolio
 
-Enhanced recruiter-focused portfolio with:
-- Professional profile section
-- Downloadable resume (`Aashi_Kumari_Resume.pdf`)
-- Scroll/reveal animations
-- Reading progress bar
-- Responsive design
-- Live public GitHub repository cards via GitHub's public API
-- GitHub, LinkedIn, email and resume links
+Welcome to my personal portfolio website.
 
-## Deploy
-Extract the ZIP and drag the folder into Netlify Drop.
+## About Me
 
-## Important
-The GitHub cards are loaded from `AashiKumari15` at runtime. They show public repositories only. As of the current portfolio build, the GitHub profile exposes one public repository, `DSA-Bootcamp-Java`, which is a forked learning repository; it is linked rather than described as an original project.
+I am a Computer Science student interested in Java, Full Stack Development, and AI.
+
+## Skills
+
+- Java
+- Spring Boot
+- HTML
+- CSS
+- JavaScript
+- SQL
+- Git & GitHub
+
+## Projects
+
+### Personal Portfolio
+A responsive portfolio website showcasing my skills, projects, and experience.
+
+## Live Website
+
+[Visit My Portfolio](https://aashikumari-portfolio.netlify.app)
+
+## Contact
+
+- Email: aashikri16@gmail.com
+- GitHub: https://github.com/AashiKumari15
